@@ -1,0 +1,42 @@
+#amap	
+127.0.0.1 cgicol.amap.com
+
+#appcenter	
+127.0.0.1 in.appcenter.ms
+
+#crashlytics	
+127.0.0.1 firebase-settings.crashlytics.com
+
+#jd	
+127.0.0.1 orbit.jd.com
+
+#microsoft	
+127.0.0.1 vortex.data.microsoft.com
+
+#misiai	
+127.0.0.1 mall.misiai.com
+
+#qq	
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 wxsnsdythumb.wxs.qq.com
+
+#taobao	
+127.0.0.1 tobapplog.ctobsnssdk.com
+127.0.0.1 toblog.ctobsnssdk.com
+
+#toutiao	
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+
+#twitter	
+127.0.0.1 analytics.twitter.com
+
+#umeng	
+127.0.0.1 aaid.umeng.com
+127.0.0.1 alog.umeng.co
+127.0.0.1 errlog.umeng.com
+127.0.0.1 ulogs.umeng.com
