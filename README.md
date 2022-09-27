@@ -1,6 +1,6 @@
 # A-Host-Collection
 > It's just host and clash'collection from others and myself.  
-> **The host** is used for adblock.  
+> **The host and Other ".txt" flie** is used for adblock.  
 > **The clash yaml** is used for clash.  
 ## Thanks:
 > [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)  
