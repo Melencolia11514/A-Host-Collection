@@ -1,0 +1,64 @@
+#amap	
+127.0.0.1 cgicol.amap.com
+#crashlytics	
+127.0.0.1 firebase-settings.crashlytics.com
+#douban
+||api.douban.com/v2/app_ads^
+#jd	
+127.0.0.1 orbit.jd.com
+||api-dd.jd.com^$important
+||kepler.jd.com^$important
+||mapi.m.jd.com^$important
+||snssdk.com^$important
+||union-click.jd.com^$important
+||dg.k.jd.com^$important
+||ex.m.jd.com^$important
+||hermes.jd.com^$important
+||gias.jd.com^$important
+#microsoft	
+127.0.0.1 vortex.data.microsoft.com
+#misiai	
+127.0.0.1 mall.misiai.com
+#qq	
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 h.trace.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 wxsnsdythumb.wxs.qq.com
+#taobao	
+127.0.0.1 tobapplog.ctobsnssdk.com
+127.0.0.1 toblog.ctobsnssdk.com
+#toutiao	
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
+127.0.0.1 zhanzhang.toutiao.com
+||log-api.pangolin-sdk-toutiao.com
+||dm-hl.toutiao.com^$important
+||dm-lq.toutiao.com^$important
+#twitter	
+127.0.0.1 analytics.twitter.com
+#umeng	
+127.0.0.1 aaid.umeng.com
+127.0.0.1 alog.umeng.co
+127.0.0.1 errlog.umeng.com
+127.0.0.1 ulogs.umeng.com
+#Lenovo
+||ldc.lenovo.com.cn^$important
+||osfsr.lenovomm.com^$important
+#2345
+||2345.cc^$important
+||2345.com^$important
+#others
+||api.imjad.cn^$important
+||data.game.xiaomi.com^$important
+||dinkajn60b4lg.cloudfront.net^$important
+||cdn.polyfill.io^$important
+||b-www.facebook.com^$important
+@@||aod.itunes.apple.com^$important
+@@||app.chat.xiaomi.net^$important
+@@||update.code.visualstudio.com^$important
+@@||register.xmpush.xiaomi.com^$client='240e:361:1212:7800:74f7:177d:2cdf:73d2'
+@@||register.xmpush.xiaomi.com^$important
+@@||widgets.paymentwall.com^$important
