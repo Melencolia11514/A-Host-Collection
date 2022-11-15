@@ -1,11 +1,3 @@
-[Adblock Plus 2.0]
-! Title: Adguard DNS List
-! Homepage: https://raw.githubusercontent.com/Melencolia11514/A-Host-Collection/main/Adguard/adguard-dns.txt
-! Expires: 12 Hours
-! Description: The Adguard DNS Filters
-! Version: 2022-11-15 
-! Total count: 20
-
 #Disney
 /Disney.*/$dnstype=AAAA
 /Disney+.*/$dnstype=AAAA
