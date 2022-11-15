@@ -12,15 +12,15 @@
 127.0.0.1 firebase-settings.crashlytics.com
 #jd	
 127.0.0.1 orbit.jd.com
-||api-dd.jd.com^$important
-||kepler.jd.com^$important
-||mapi.m.jd.com^$important
-||snssdk.com^$important
-||union-click.jd.com^$important
-||dg.k.jd.com^$important
-||ex.m.jd.com^$important
-||hermes.jd.com^$important
-||gias.jd.com^$important
+||api-dd.jd.com
+||kepler.jd.com
+||mapi.m.jd.com
+||snssdk.com
+||union-click.jd.com
+||dg.k.jd.com
+||ex.m.jd.com
+||hermes.jd.com
+||gias.jd.com
 #microsoft	
 127.0.0.1 vortex.data.microsoft.com
 #misiai	
@@ -41,8 +41,8 @@
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
 127.0.0.1 zhanzhang.toutiao.com
 ||log-api.pangolin-sdk-toutiao.com
-||dm-hl.toutiao.com^$important
-||dm-lq.toutiao.com^$important
+||dm-hl.toutiao.com
+||dm-lq.toutiao.com
 #twitter	
 127.0.0.1 analytics.twitter.com
 #umeng	
@@ -51,14 +51,14 @@
 127.0.0.1 errlog.umeng.com
 127.0.0.1 ulogs.umeng.com
 #Lenovo
-||ldc.lenovo.com.cn^$important
-||osfsr.lenovomm.com^$important
+||ldc.lenovo.com.cn
+||osfsr.lenovomm.com
 #2345
-||2345.cc^$important
-||2345.com^$important
+||2345.cc
+||2345.com
 #others
-||api.imjad.cn^$important
-||data.game.xiaomi.com^$important
-||dinkajn60b4lg.cloudfront.net^$important
-||cdn.polyfill.io^$important
-||b-www.facebook.com^$important
+||api.imjad.cn
+||data.game.xiaomi.com
+||dinkajn60b4lg.cloudfront.net
+||cdn.polyfill.io
+||b-www.facebook.com
