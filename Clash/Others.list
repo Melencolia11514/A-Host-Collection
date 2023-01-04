@@ -1,12 +1,21 @@
-	DOMAIN-SUFFIX,e-hentai.org
-DOMAIN-SUFFIX,feedly.com
-DOMAIN-KEYWORD,heroku
-DOMAIN-SUFFIX,hostloc.com
-DOMAIN-SUFFIX,irithys.com
-DOMAIN-SUFFIX,matrix.org
-DOMAIN-SUFFIX,picacomic.com
-DOMAIN-SUFFIX,railway.app
-DOMAIN-SUFFIX,rsshub.app
+# applemediaservices
 DOMAIN-SUFFIX,tools.applemediaservices.com
+# e-hentai
+DOMAIN-SUFFIX,e-hentai.org
+# feedly
+DOMAIN-SUFFIX,feedly.com
+# heroku
+DOMAIN-KEYWORD,heroku
+# hostloc
+DOMAIN-SUFFIX,hostloc.com
+# matrix
+DOMAIN-SUFFIX,matrix.org
+# picacomic
+DOMAIN-SUFFIX,picacomic.com
+# railway
+DOMAIN-SUFFIX,railway.app
+# rsshub
+DOMAIN-SUFFIX,rsshub.app
+# vercel
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.link
