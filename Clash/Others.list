@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,railway.app
 # rsshub
 DOMAIN-SUFFIX,rsshub.app
+# vrchat
+DOMAIN-SUFFIX，vrchat.cloud
 # vercel
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.link
