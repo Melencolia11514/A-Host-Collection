@@ -1,5 +1,3 @@
-# applemediaservices
-DOMAIN-SUFFIX,tools.applemediaservices.com
 # e-hentai
 DOMAIN-SUFFIX,e-hentai.org
 # feedly
@@ -19,7 +17,7 @@ DOMAIN-SUFFIX,railway.app
 # rsshub
 DOMAIN-SUFFIX,rsshub.app
 # vrchat
-DOMAIN-SUFFIX，vrchat.cloud
+DOMAIN-SUFFIX,vrchat.cloud
 # vercel
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.link
