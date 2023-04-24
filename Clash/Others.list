@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,poe.com
 # Proton
 DOMAIN-SUFFIX,proton.me
 # Quarz
-DOMAIN_SUFFIX,qz.com
+DOMAIN-SUFFIX,qz.com
 # railway
 DOMAIN-SUFFIX,railway.app
 # rsshub
