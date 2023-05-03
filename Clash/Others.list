@@ -1,8 +1,8 @@
 # Adtidy
 DOMAIN-SUFFIX,adtidy.org
-# apple
+# Apple
 DOMAIN-SUFFIX,tools.applemediaservices.com
-# awwwards
+# Awwwards
 DOMAIN-SUFFIX,awwwards.com
 # Deepnote
 DOMAIN-SUFFIX,deepnote.com
@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,qz.com
 DOMAIN-SUFFIX,railway.app
 # rsshub
 DOMAIN-SUFFIX,rsshub.app
+# Stardock
+DOMAIN-SUFFIX,download.api.stardock.net
 # vrchat
 DOMAIN-SUFFIX,vrchat.cloud
 # vercel
