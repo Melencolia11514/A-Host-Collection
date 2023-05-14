@@ -39,5 +39,6 @@ DOMAIN-SUFFIX,download.api.stardock.net
 # vrchat
 DOMAIN-SUFFIX,vrchat.cloud
 # vercel
+DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.link
