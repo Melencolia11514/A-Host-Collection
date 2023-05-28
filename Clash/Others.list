@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,liteserver.nl
 # matrix
 DOMAIN-SUFFIX,matrix.org
+# NextDNS
+DOMAIN-SUFFIX,nextdns.io
 # picacomic
 DOMAIN-SUFFIX,picacomic.com
 # poe
