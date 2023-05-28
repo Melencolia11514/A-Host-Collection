@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,conda.io
 DOMAIN-SUFFIX,tools.applemediaservices.com
 # Awwwards
 DOMAIN-SUFFIX,awwwards.com
+# Civitai
+DOMAIN-SUFFIX,civitai.com
 # Deepnote
 DOMAIN-SUFFIX,deepnote.com
 # e-hentai
