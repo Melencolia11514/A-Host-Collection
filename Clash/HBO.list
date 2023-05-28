@@ -1,6 +1,5 @@
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
@@ -8,4 +7,8 @@ DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,sessions-latam.api.hbo.com
+DOMAIN-SUFFIX,comet-latam.api.hbo.com
+DOMAIN-SUFFIX,sessions.api.hbo.com
+DOMAIN-SUFFIX,user-comet-latam.api.hbo.com
 PROCESS-NAME,com.hbo.hbonow
