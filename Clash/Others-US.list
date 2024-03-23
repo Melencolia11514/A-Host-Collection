@@ -1,5 +1,7 @@
 # ID.me
 DOMAIN-SUFFIX,id.me
+# huggingface
+DOMAIN-SUFFIX,huggingface.co
 # Openai
 DOMAIN,cdn.auth0.com
 DOMAIN,challenges.cloudflare.com
