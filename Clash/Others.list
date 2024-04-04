@@ -26,6 +26,10 @@ DOMAIN-SUFFIX,liteserver.nl
 DOMAIN-SUFFIX,matrix.org
 # NextDNS
 DOMAIN-SUFFIX,nextdns.io
+# nodeseek
+DOMAIN-SUFFIX,nodeseek.com
+# obsidian
+DOMAIN-KEYWORD,obsidian
 # openwebui
 DOMAIN-SUFFIX,openwebui.com
 # picacomic
