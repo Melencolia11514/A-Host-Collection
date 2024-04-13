@@ -13,5 +13,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
 # Rise
 DOMAIN-SUFFIX,raise.com
+# WSJ
+DOMAIN-SUFFIX,dowjones.io
 
 
