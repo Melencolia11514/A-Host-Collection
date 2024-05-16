@@ -1,7 +1,9 @@
 # amap	
 127.0.0.1 cgicol.amap.com
+
 # crashlytics	
 127.0.0.1 firebase-settings.crashlytics.com
+
 # jd	
 127.0.0.1 orbit.jd.com
 127.0.0.1 api-dd.jd.com
@@ -13,19 +15,24 @@
 127.0.0.1 ex.m.jd.com
 127.0.0.1 hermes.jd.com
 127.0.0.1 gias.jd.com
+
 # microsoft	
 127.0.0.1 vortex.data.microsoft.com
+
 # misiai	
 127.0.0.1 mall.misiai.com
+
 # qq	
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
+
 # taobao	
 127.0.0.1 tobapplog.ctobsnssdk.com
 127.0.0.1 toblog.ctobsnssdk.com
+
 # toutiao	
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
@@ -35,25 +42,31 @@
 127.0.0.1 log-api.pangolin-sdk-toutiao.com
 127.0.0.1 dm-hl.toutiao.com
 127.0.0.1 dm-lq.toutiao.com
+
 # twitter	
 127.0.0.1 analytics.twitter.com
+
 # umeng	
 127.0.0.1 aaid.umeng.com
 127.0.0.1 alog.umeng.co
 127.0.0.1 errlog.umeng.com
 127.0.0.1 ulogs.umeng.com
+
 # Lenovo
 127.0.0.1 ldc.lenovo.com.cn
 127.0.0.1 osfsr.lenovomm.com
+
 # 2345
 127.0.0.1 2345.cc
 127.0.0.1 2345.com
+
 # others
 127.0.0.1 api.imjad.cn
 127.0.0.1 data.game.xiaomi.com
 127.0.0.1 dinkajn60b4lg.cloudfront.net
 127.0.0.1 cdn.polyfill.io
 127.0.0.1 b-www.facebook.com
+
 # 大圣净化规则
 127.0.0.1 gw.365you.com
 127.0.0.1 adsmind.gdtimg.com
@@ -770,7 +783,6 @@
 127.0.0.1 *.rdtuijian.com
 127.0.0.1 *.mobad.ijinshan.com
 127.0.0.1 *.gdt.qq.com
-127.0.0.1 *.duiba.com.cn
 127.0.0.1 *.tatagou.com.cn
 127.0.0.1 *.epro.sogou.com
 127.0.0.1 *.golden1.sogou.com
