@@ -6,11 +6,23 @@
 ! Version: 2024-3-15
 ! Total count: 43
 
-#amap	
+# amap	
 127.0.0.1 cgicol.amap.com
 #crashlytics	
 127.0.0.1 firebase-settings.crashlytics.com
-#jd	
+# Hisense Smart TV
+||api-gps-em.hismarttv.com
+||auth-em.hismarttv.com
+||msg-em.hismarttv.com
+||api-launcher-em.hismarttv.com
+||auth-launcher-em.hismarttv.com
+||api-gps-na.hismarttv.com
+||auth-na.hismarttv.com
+||msg-na.hismarttv.com
+||api-launcher-na.hismarttv.com
+||auth-launcher-na.hismarttv.com
+||unified-ter-na.hismarttv.com
+# jd	
 127.0.0.1 orbit.jd.com
 ||api-dd.jd.com
 ||kepler.jd.com
@@ -21,20 +33,20 @@
 ||ex.m.jd.com
 ||hermes.jd.com
 ||gias.jd.com
-#microsoft	
+# microsoft	
 127.0.0.1 vortex.data.microsoft.com
-#misiai	
+# misiai	
 127.0.0.1 mall.misiai.com
-#qq	
+# qq	
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
-#taobao	
+# taobao	
 127.0.0.1 tobapplog.ctobsnssdk.com
 127.0.0.1 toblog.ctobsnssdk.com
-#toutiao	
+# toutiao	
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
 127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
@@ -43,20 +55,20 @@
 ||log-api.pangolin-sdk-toutiao.com
 ||dm-hl.toutiao.com
 ||dm-lq.toutiao.com
-#twitter	
+# twitter	
 127.0.0.1 analytics.twitter.com
-#umeng	
+# umeng	
 127.0.0.1 aaid.umeng.com
 127.0.0.1 alog.umeng.co
 127.0.0.1 errlog.umeng.com
 127.0.0.1 ulogs.umeng.com
-#Lenovo
+# Lenovo
 ||ldc.lenovo.com.cn
 ||osfsr.lenovomm.com
-#2345
+# 2345
 ||2345.cc
 ||2345.com
-#others
+# others
 ||api.imjad.cn
 ||data.game.xiaomi.com
 ||dinkajn60b4lg.cloudfront.net
